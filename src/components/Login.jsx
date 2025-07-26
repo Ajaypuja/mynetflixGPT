@@ -17,6 +17,8 @@ const Login = () => {
 
     const message = checkValidData(emailVal, passwordVal);
     setErrorMessage(message);
+
+
     
 
   };
